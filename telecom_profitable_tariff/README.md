@@ -42,9 +42,4 @@
 Проанализировать поведение клиентов и сделать вывод — какой тариф лучше. Проверить две гипотезы о выручке пользователей.
 
 ## **Используемые библиотеки**
-pandas
-numpy
-seaborn
-matplotlib
-scipy
-os
+pandas, numpy, seaborn, matplotlib, scipy, os

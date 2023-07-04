@@ -22,8 +22,4 @@
 2. Средние пользовательские рейтинги жанров Action (англ. «действие», экшен-игры) и Sports (англ. «спортивные соревнования») разные.
 
 ## **Используемые библиотеки**
-pandas
-numpy
-seaborn
-matplotlib
-scipy
+pandas, numpy, seaborn, matplotlib, scipy
