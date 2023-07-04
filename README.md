@@ -4,8 +4,8 @@
 
 | Название проекта| Задача| Используемые библиотеки |
 | :------------: | :-------: |:----------------------:|
-| [Обучение модели классификации комментариев](https://github.com/kattylavr/lavreniuk/tree/master)| Определение токсичности комментарии. | Pandas, Scikit-learn, nltk, tf-idf |
-| [Прогнозирование количества заказов такси на следующий час](https://github.com/kattylavr/lavreniuk/tree/master)| Разработка системы предсказания объема заказа. | Pandas, Scikit-learn |
+| [Обучение модели классификации комментариев](https://github.com/kattylavr/lavreniuk/tree/master/toxic_comments_nlp)| Определение токсичности комментарии. | Pandas, Numpy, Matplotlib, Scikit-learn, Lightgbm, NLTK, Re, Imblearn |
+| [Прогнозирование количества заказов такси на следующий час](https://github.com/kattylavr/lavreniuk/tree/master/prediction_taxi_orders)| Разработка системы предсказания объема заказов. | Pandas, Numpy, Matplotlib, Statsmodels, Sklearn, Lightgbm, Catboost |
 | [Построение модели определения стоимости автомобиля](https://github.com/kattylavr/lavreniuk/tree/master/car_cost_regression)| Спрогнозировать концентрацию золота при проведении процесса очистки золота | Pandas, Lightgbm, Scikit-learn, Seaborn, Matplotlib, Catboost, Numpy |
 | [Защита данных клиентов страховой компании](https://github.com/kattylavr/lavreniuk/tree/master/data_encryption)| Спрогнозировать концентрацию золота при проведении процесса очистки золота | Pandas, Numpy, Scikit-learn, Matplotlib |
 | [Исследование технологического процесса очистки золота](https://github.com/kattylavr/lavreniuk/tree/master/gold_recovery_model)| Спрогнозировать концентрацию золота при проведении процесса очистки золота | Pandas, Numpy, Scikit-learn, Seaborn, Matplotlib |
