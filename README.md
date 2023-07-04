@@ -9,10 +9,9 @@
 | [Прогнозирование количества заказов такси на следующий час](https://github.com/kattylavr/lavreniuk/tree/master)| Разработка системы предсказания объема заказа. | Pandas, Scikit-learn |
 | [Построение модели определения стоимости автомобиля](https://github.com/kattylavr/lavreniuk/tree/master)| Спрогнозировать концентрацию золота при проведении процесса очистки золота | Pandas, lightgbm, Scikit-learn |
 | [Защита данных клиентов страховой компании](https://github.com/kattylavr/lavreniuk/tree/master)| Спрогнозировать концентрацию золота при проведении процесса очистки золота | Pandas, Numpy, Scikit-learn |
-| [Исследование технологического процесса очистки золота](https://github.com/kattylavr/lavreniuk/tree/master)| Спрогнозировать концентрацию золота при проведении процесса очистки золота | Pandas, Numpy, Scikit-learn |
-| [Определение наиболее выгодного региона нефтедобычи](https://github.com/kattylavr/lavreniuk/tree/master)| На основе данных из банка определить клиент, который может уйти | Pandas, Bootstrap, Scikit-learn |
 
-
+| [Исследование технологического процесса очистки золота](https://github.com/kattylavr/lavreniuk/tree/master/gold_recovery_model)| Спрогнозировать концентрацию золота при проведении процесса очистки золота | Pandas, Numpy, Scikit-learn |
+| [Определение наиболее выгодного региона нефтедобычи](https://github.com/kattylavr/lavreniuk/tree/master/oil_well_selection)| На основе данных из банка определить клиент, который может уйти | Pandas, Bootstrap, Scikit-learn |
 | [Прогнозирование оттока клиента Банка](https://github.com/kattylavr/lavreniuk/tree/master/bank_customer_outflow)| На основе данных из банка определить клиент, который может уйти | Pandas, Matplotlib, Scikit-learn |
 | [Классификаиция клиентов телеком компании](https://github.com/kattylavr/lavreniuk/tree/master/telecom_tariffs_recommendation)| На основе данных клиентов оператора сотовой связи проанализировать поведение клиентов и поиск оптимального тарифа | Pandas, Matplotlib, Scikit-learn |
 | [Определение выгодного тарифа для телеком компании](https://github.com/kattylavr/lavreniuk/tree/master/telecom_profitable_tariff)| На основе данных клиентов оператора сотовой связи проанализировать поведение клиентов и поиск оптимального тарифа | Pandas, Matplotlib, NumPy, SciPy |
