@@ -6,8 +6,8 @@
 | :------------: | :-------: |:----------------------:|
 | [Обучение модели классификации комментариев](https://github.com/kattylavr/lavreniuk/tree/master)| Определение токсичности комментарии. | Pandas, Scikit-learn, nltk, tf-idf |
 | [Прогнозирование количества заказов такси на следующий час](https://github.com/kattylavr/lavreniuk/tree/master)| Разработка системы предсказания объема заказа. | Pandas, Scikit-learn |
-| [Построение модели определения стоимости автомобиля](https://github.com/kattylavr/lavreniuk/tree/master)| Спрогнозировать концентрацию золота при проведении процесса очистки золота | Pandas, lightgbm, Scikit-learn |
-| [Защита данных клиентов страховой компании](https://github.com/kattylavr/lavreniuk/tree/master)| Спрогнозировать концентрацию золота при проведении процесса очистки золота | Pandas, Numpy, Scikit-learn |
+| [Построение модели определения стоимости автомобиля](https://github.com/kattylavr/lavreniuk/tree/master/car_cost_regression)| Спрогнозировать концентрацию золота при проведении процесса очистки золота | Pandas, Lightgbm, Scikit-learn, Seaborn, Matplotlib, Catboost, Numpy |
+| [Защита данных клиентов страховой компании](https://github.com/kattylavr/lavreniuk/tree/master/data_encryption)| Спрогнозировать концентрацию золота при проведении процесса очистки золота | Pandas, Numpy, Scikit-learn, Matplotlib |
 | [Исследование технологического процесса очистки золота](https://github.com/kattylavr/lavreniuk/tree/master/gold_recovery_model)| Спрогнозировать концентрацию золота при проведении процесса очистки золота | Pandas, Numpy, Scikit-learn, Seaborn, Matplotlib |
 | [Определение наиболее выгодного региона нефтедобычи](https://github.com/kattylavr/lavreniuk/tree/master/oil_well_selection)| На основе данных из банка определить клиент, который может уйти | Pandas, Bootstrap, Scikit-learn, Numpy, Scipy |
 | [Прогнозирование оттока клиента Банка](https://github.com/kattylavr/lavreniuk/tree/master/bank_customer_outflow)| На основе данных из банка определить клиент, который может уйти | Pandas, Scikit-learn |
